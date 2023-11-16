@@ -332,7 +332,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	      }
 	      this.timeout = setTimeout(function () {
 	        _this3.backspace(curString, curStrPos);
-	      }, this.backDelay);
+	      }, this.backDelay); 
 	    }
 	
 	    /**
